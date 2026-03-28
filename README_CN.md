@@ -18,8 +18,8 @@
 
 六爻是以《易经》为基础的中国古典占卜方法，通过掷钱或蓍草起卦，形成由六条爻组成的卦象，进而进行解读。
 
-- [ichingpy](https://github.com/philosopherdog/ichingpy) - 用于六爻占卜的 Python 库，提供起卦与卦象解释工具。
-- [iching-js](https://github.com/placeholder/iching-js) - 用于《易经》起卦与卦象查询的 JavaScript 库。*(占位符)*
+- [ichingpy](https://github.com/JinyangWang27/ichingpy) - 用于六爻占卜的 Python 库，提供起卦与卦象解释工具。
+- [iching.js](https://github.com/l2yao/iching.js) - 用于《易经》起卦与卦象查询的 JavaScript 库。
 - [liuyao-core](https://github.com/placeholder/liuyao-core) - 六爻排盘与六线分析的核心引擎。*(占位符)*
 
 ## 紫微斗数 (Zi Wei Dou Shu)
