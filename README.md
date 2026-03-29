@@ -18,41 +18,41 @@
 
 Liu Yao is a classical Chinese divination method based on the I Ching (易经), using six lines (yao) derived from coin or yarrow-stalk casting to form hexagrams.
 
-- [ichingpy](https://github.com/philosopherdog/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
-- [iching-js](https://github.com/placeholder/iching-js) - JavaScript library for I Ching hexagram casting and lookup. *(placeholder)*
-- [liuyao-core](https://github.com/placeholder/liuyao-core) - Core engine for Liu Yao chart calculation and six-line analysis. *(placeholder)*
+- [ichingpy](https://github.com/JinyangWang27/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
+- [iching.js](https://github.com/l2yao/iching.js) - JavaScript library for I Ching hexagram casting and lookup.
+- [divination-liuyao](https://github.com/SmallTeddyGames/divination-liuyao) - TypeScript library for Liu Yao (六爻) divination based on the I Ching, with hexagram casting and interpretation.
 
 ## 紫微斗数 (Zi Wei Dou Shu)
 
 Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
 
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
-- [py-iztro](https://github.com/placeholder/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation. *(placeholder)*
-- [zwds-calculator](https://github.com/placeholder/zwds-calculator) - Web-based Zi Wei Dou Shu chart calculator with interactive palace display. *(placeholder)*
+- [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
+- [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - WordPress plugin for Zi Wei Dou Shu chart calculation with interactive palace display, focused on the Zhong Zhou school (中州派) style.
 
 ## 八字 (BaZi)
 
 BaZi (八字, "Eight Characters") is a Chinese astrological system that derives a four-pillar chart from a person's birth year, month, day, and hour using the Heavenly Stems (天干) and Earthly Branches (地支).
 
-- [bazi-calculator](https://github.com/placeholder/bazi-calculator) - Python library for generating and analyzing BaZi four-pillar charts. *(placeholder)*
-- [bazi-js](https://github.com/placeholder/bazi-js) - JavaScript library for BaZi chart calculation including stem-branch cycles and ten-god analysis. *(placeholder)*
-- [bazi-api](https://github.com/placeholder/bazi-api) - REST API service for BaZi chart generation with JSON output. *(placeholder)*
+- [bazi](https://github.com/china-testing/bazi) - Python BaZi chart software with clash, combination, and yin-yang analysis, plus matchmaking and Feng Shui features.
+- [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
+- [bazi-api](https://github.com/Sophia519/bazi-api) - BaZi calculation API built with lunar-javascript, returning structured chart data.
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
 Qi Men Dun Jia (奇门遁甲) is an advanced Chinese metaphysical system used for divination, strategy, and date selection, based on a 9-palace grid (九宫) populated with stems, gates, stars, and deities.
 
-- [qimen-sdk](https://github.com/placeholder/qimen-sdk) - SDK for constructing Qi Men Dun Jia charts for a given date/time. *(placeholder)*
-- [qmdj-engine](https://github.com/placeholder/qmdj-engine) - Python engine for Qi Men Dun Jia palace layout and interpretation. *(placeholder)*
-- [qimen-web](https://github.com/placeholder/qimen-web) - Browser-based Qi Men Dun Jia chart viewer with real-time palace calculation. *(placeholder)*
+- [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - JavaScript module for constructing Qi Men Dun Jia charts (奇門遁甲起盤模組).
+- [Qimen-Dunjia](https://github.com/Maximilian-Winter/Qimen-Dunjia) - Python framework for Qi Men Dun Jia palace layout and interpretation.
+- [QimenDunjia](https://github.com/codeUser6608/QimenDunjia) - Vue-based Qi Men Dun Jia H5 mini-program with real-time palace calculation.
 
 ## 风水 (Feng Shui)
 
 Feng Shui (风水) is the Chinese practice of arranging environments in harmony with natural energy flows (气, qi), encompassing compass-based (玄空飞星) and form-based (形势) schools.
 
-- [flying-stars](https://github.com/placeholder/flying-stars) - Python library for Xuan Kong Flying Stars (玄空飞星) calculation and chart layout. *(placeholder)*
-- [fengshui-compass](https://github.com/placeholder/fengshui-compass) - Digital Lo Pan (罗盘) compass tool for directional Feng Shui analysis. *(placeholder)*
-- [bagua-mapper](https://github.com/placeholder/bagua-mapper) - Utility for mapping the Eight Trigrams (八卦) to floor plans and spaces. *(placeholder)*
+- [Fengshui](https://github.com/funfwo/Fengshui) - Python implementation of Xuan Kong Flying Stars (玄空飞星) chart generation with mountain/water palace interpretation and wealth/study position analysis.
+- [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - TypeScript Lo Pan (罗盘) compass tool for directional Feng Shui analysis with customizable rings.
+- [fengshui.js](https://github.com/l2yao/fengshui.js) - JavaScript library for Feng Shui calculations including bagua direction mapping.
 
 ## 农历/节气 (Chinese Calendar)
 
@@ -60,17 +60,17 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 
 - [lunar-python](https://github.com/6tail/lunar-python) - Comprehensive Python library for Chinese lunar calendar, solar terms, and stem-branch date conversion.
 - [lunar-javascript](https://github.com/6tail/lunar-javascript) - JavaScript library for Chinese lunar/solar calendar conversion and solar term calculation.
-- [chinese-calendar](https://github.com/placeholder/chinese-calendar) - Python package for converting between Gregorian and Chinese lunisolar dates with holiday support. *(placeholder)*
-- [jieqi](https://github.com/placeholder/jieqi) - Library for computing the precise time of each of the 24 solar terms (节气) for any year. *(placeholder)*
+- [chinese-calendar](https://github.com/LKI/chinese-calendar) - Python package for determining Chinese public holidays and workdays, with Gregorian/lunisolar date support.
+- [jieqi](https://github.com/mayfower111/jieqi) - Python program for calculating the precise times of the 24 solar terms (节气) across multiple time zones, accurate to the second.
 
 ## Learning Resources
 
 - [The Complete I Ching — Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - Authoritative English translation of the I Ching with detailed hexagram commentary.
 - [The Astrology of I Ching — W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - Classic introduction to Liu Yao divination methodology.
-- [Purple Star Astrology — Anthology](https://www.amazon.com/Purple-Star-Astrology-Chinese-Metaphysics/dp/placeholder) - Introduction to Zi Wei Dou Shu palace interpretation. *(placeholder)*
+- [iztro Documentation — Zi Wei Dou Shu Guide](https://docs.iztro.com) - Official documentation for the iztro library, covering Zi Wei Dou Shu palace interpretation, star analysis, and luck-cycle calculation.
 - [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
 - [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/) - Reference text covering the theory and practical application of Qi Men Dun Jia.
-- [ZWDS Research Society](https://github.com/placeholder/zwds-research) - Community wiki and annotated resources for Zi Wei Dou Shu research. *(placeholder)*
+- [ziwei-doushu-wiki](https://github.com/ziweidoushu-info/ziwei-doushu-wiki) - Open-source Zi Wei Dou Shu wiki covering the 14 main stars, 12 palaces, four transformations (四化), and chart calculation logic.
 
 ---
 
