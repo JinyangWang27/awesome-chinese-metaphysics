@@ -34,9 +34,9 @@
 
 八字（又称四柱命理）是中国命理学体系，根据出生的年、月、日、时，结合天干地支推算出四柱命盘，并进行分析解读。
 
+- [bazi-api](https://github.com/Sophia519/bazi-api) - 基于 lunar-javascript 的八字计算 API，返回结构化命盘数据。
 - [bazi](https://github.com/china-testing/bazi) - Python 八字排盘软件，清晰展示冲刑合会、阴阳等关系，并有合婚、风水等功能。
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - 首个基于纯 JavaScript 无依赖的八字排盘库，具有完整的神煞系统，根据渊海子平原文发表的八字排盘原理。
-- [bazi-api](https://github.com/Sophia519/bazi-api) - 基于 lunar-javascript 的八字计算 API，返回结构化命盘数据。
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
@@ -51,17 +51,17 @@
 风水是中国通过合理布局环境以顺应自然气场（气）的传统实践，主要分为玄空飞星派（理气）和形势派两大流派。
 
 - [Fengshui](https://github.com/funfwo/Fengshui) - 按照玄空飞星法排盘的 Python 实现，可给出山向飞星解释及文昌位、财位等分析。
-- [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - 用于风水方位分析的 TypeScript 数字罗盘工具，支持自定义盘面。
 - [fengshui.js](https://github.com/l2yao/fengshui.js) - 用于风水计算的 JavaScript 库，包含八卦方位映射功能。
+- [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - 用于风水方位分析的 TypeScript 数字罗盘工具，支持自定义盘面。
 
 ## 农历/节气 (Chinese Calendar)
 
 用于处理中国农历（阴阳合历）、二十四节气、天干及地支的工具库。
 
-- [lunar-python](https://github.com/6tail/lunar-python) - 功能全面的 Python 库，支持中国农历、节气及干支日期转换。
-- [lunar-javascript](https://github.com/6tail/lunar-javascript) - 用于中国农历/公历转换及节气计算的 JavaScript 库。
 - [chinese-calendar](https://github.com/LKI/chinese-calendar) - 支持公历与农历互转及法定节假日/工作日判断的 Python 包。
 - [jieqi](https://github.com/mayfower111/jieqi) - 用于计算任意年份二十四节气精确时刻的 Python 程序，支持中美欧多时区，精确到秒。
+- [lunar-javascript](https://github.com/6tail/lunar-javascript) - 用于中国农历/公历转换及节气计算的 JavaScript 库。
+- [lunar-python](https://github.com/6tail/lunar-python) - 功能全面的 Python 库，支持中国农历、节气及干支日期转换。
 
 ## 学习资源
 

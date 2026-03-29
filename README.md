@@ -34,9 +34,9 @@ Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-
 
 BaZi (八字, "Eight Characters") is a Chinese astrological system that derives a four-pillar chart from a person's birth year, month, day, and hour using the Heavenly Stems (天干) and Earthly Branches (地支).
 
+- [bazi-api](https://github.com/Sophia519/bazi-api) - BaZi calculation API built with lunar-javascript, returning structured chart data.
 - [bazi](https://github.com/china-testing/bazi) - Python BaZi chart software with clash, combination, and yin-yang analysis, plus matchmaking and Feng Shui features.
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
-- [bazi-api](https://github.com/Sophia519/bazi-api) - BaZi calculation API built with lunar-javascript, returning structured chart data.
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
@@ -51,17 +51,17 @@ Qi Men Dun Jia (奇门遁甲) is an advanced Chinese metaphysical system used fo
 Feng Shui (风水) is the Chinese practice of arranging environments in harmony with natural energy flows (气, qi), encompassing compass-based (玄空飞星) and form-based (形势) schools.
 
 - [Fengshui](https://github.com/funfwo/Fengshui) - Python implementation of Xuan Kong Flying Stars (玄空飞星) chart generation with mountain/water palace interpretation and wealth/study position analysis.
-- [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - TypeScript Lo Pan (罗盘) compass tool for directional Feng Shui analysis with customizable rings.
 - [fengshui.js](https://github.com/l2yao/fengshui.js) - JavaScript library for Feng Shui calculations including bagua direction mapping.
+- [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - TypeScript Lo Pan (罗盘) compass tool for directional Feng Shui analysis with customizable rings.
 
 ## 农历/节气 (Chinese Calendar)
 
 Tools for working with the Chinese lunisolar calendar (农历), the 24 solar terms (二十四节气), Heavenly Stems (天干), and Earthly Branches (地支).
 
-- [lunar-python](https://github.com/6tail/lunar-python) - Comprehensive Python library for Chinese lunar calendar, solar terms, and stem-branch date conversion.
-- [lunar-javascript](https://github.com/6tail/lunar-javascript) - JavaScript library for Chinese lunar/solar calendar conversion and solar term calculation.
 - [chinese-calendar](https://github.com/LKI/chinese-calendar) - Python package for determining Chinese public holidays and workdays, with Gregorian/lunisolar date support.
 - [jieqi](https://github.com/mayfower111/jieqi) - Python program for calculating the precise times of the 24 solar terms (节气) across multiple time zones, accurate to the second.
+- [lunar-javascript](https://github.com/6tail/lunar-javascript) - JavaScript library for Chinese lunar/solar calendar conversion and solar term calculation.
+- [lunar-python](https://github.com/6tail/lunar-python) - Comprehensive Python library for Chinese lunar calendar, solar terms, and stem-branch date conversion.
 
 ## Learning Resources
 
