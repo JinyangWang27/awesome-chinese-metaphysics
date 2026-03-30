@@ -4,13 +4,17 @@
 
 ## Contents
 
-- [六爻 (Liu Yao)](#六爻-liu-yao)
-- [紫微斗数 (Zi Wei Dou Shu)](#紫微斗数-zi-wei-dou-shu)
-- [八字 (BaZi)](#八字-bazi)
-- [奇门遁甲 (Qi Men Dun Jia)](#奇门遁甲-qi-men-dun-jia)
-- [风水 (Feng Shui)](#风水-feng-shui)
-- [农历/节气 (Chinese Calendar)](#农历节气-chinese-calendar)
-- [Learning Resources](#learning-resources)
+- [Awesome Chinese Metaphysics ](#awesome-chinese-metaphysics-)
+  - [Contents](#contents)
+  - [六爻 (Liu Yao)](#六爻-liu-yao)
+  - [紫微斗数 (Zi Wei Dou Shu)](#紫微斗数-zi-wei-dou-shu)
+  - [八字 (BaZi)](#八字-bazi)
+  - [奇门遁甲 (Qi Men Dun Jia)](#奇门遁甲-qi-men-dun-jia)
+  - [风水 (Feng Shui)](#风水-feng-shui)
+  - [农历/节气 (Chinese Calendar)](#农历节气-chinese-calendar)
+  - [Learning Resources](#learning-resources)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ---
 
@@ -19,7 +23,6 @@
 Liu Yao is a classical Chinese divination method based on the I Ching (易经), using six lines (yao) derived from coin or yarrow-stalk casting to form hexagrams.
 
 - [ichingpy](https://github.com/JinyangWang27/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
-- [iching.js](https://github.com/l2yao/iching.js) - JavaScript library for I Ching hexagram casting and lookup.
 - [divination-liuyao](https://github.com/SmallTeddyGames/divination-liuyao) - TypeScript library for Liu Yao (六爻) divination based on the I Ching, with hexagram casting and interpretation.
 
 ## 紫微斗数 (Zi Wei Dou Shu)
@@ -28,13 +31,11 @@ Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-
 
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
 - [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
-- [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - WordPress plugin for Zi Wei Dou Shu chart calculation with interactive palace display, focused on the Zhong Zhou school (中州派) style.
 
 ## 八字 (BaZi)
 
 BaZi (八字, "Eight Characters") is a Chinese astrological system that derives a four-pillar chart from a person's birth year, month, day, and hour using the Heavenly Stems (天干) and Earthly Branches (地支).
 
-- [bazi-api](https://github.com/Sophia519/bazi-api) - BaZi calculation API built with lunar-javascript, returning structured chart data.
 - [bazi](https://github.com/china-testing/bazi) - Python BaZi chart software with clash, combination, and yin-yang analysis, plus matchmaking and Feng Shui features.
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
 
@@ -65,11 +66,8 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 
 ## Learning Resources
 
-- [The Complete I Ching — Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - Authoritative English translation of the I Ching with detailed hexagram commentary.
 - [The Astrology of I Ching — W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - Classic introduction to Liu Yao divination methodology.
 - [iztro Documentation — Zi Wei Dou Shu Guide](https://docs.iztro.com) - Official documentation for the iztro library, covering Zi Wei Dou Shu palace interpretation, star analysis, and luck-cycle calculation.
-- [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
-- [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/) - Reference text covering the theory and practical application of Qi Men Dun Jia.
 - [ziwei-doushu-wiki](https://github.com/ziweidoushu-info/ziwei-doushu-wiki) - Open-source Zi Wei Dou Shu wiki covering the 14 main stars, 12 palaces, four transformations (四化), and chart calculation logic.
 
 ---
