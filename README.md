@@ -68,8 +68,8 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 - [The Complete I Ching — Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - Authoritative English translation of the I Ching with detailed hexagram commentary.
 - [The Astrology of I Ching — W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - Classic introduction to Liu Yao divination methodology.
 - [iztro Documentation — Zi Wei Dou Shu Guide](https://docs.iztro.com) - Official documentation for the iztro library, covering Zi Wei Dou Shu palace interpretation, star analysis, and luck-cycle calculation.
-- [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
-- [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/) - Reference text covering the theory and practical application of Qi Men Dun Jia.
+- [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/bazi) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
+- [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/qimen) - Reference text covering the theory and practical application of Qi Men Dun Jia.
 - [ziwei-doushu-wiki](https://github.com/ziweidoushu-info/ziwei-doushu-wiki) - Open-source Zi Wei Dou Shu wiki covering the 14 main stars, 12 palaces, four transformations (四化), and chart calculation logic.
 
 ---
@@ -77,9 +77,3 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
