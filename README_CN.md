@@ -2,6 +2,8 @@
 
 > 精心整理的中华玄学相关工具、库与资源列表，涵盖六爻、紫微斗数、八字、奇门遁甲、风水及中国历法（农历/节气）。
 
+其他语言: [English](README.md)
+
 ## 目录
 
 - [六爻 (Liu Yao)](#六爻-liu-yao)
@@ -18,9 +20,9 @@
 
 六爻是以《易经》为基础的中国古典占卜方法，通过掷钱或蓍草起卦，形成由六条爻组成的卦象，进而进行解读。
 
-- [ichingpy](https://github.com/JinyangWang27/ichingpy) - 用于六爻占卜的 Python 库，提供起卦与卦象解释工具。
-- [iching.js](https://github.com/l2yao/iching.js) - 用于《易经》起卦与卦象查询的 JavaScript 库。
 - [divination-liuyao](https://github.com/SmallTeddyGames/divination-liuyao) - 基于《周易》的六爻占卜 TypeScript 库，支持起卦与卦象解读。
+- [iching.js](https://github.com/l2yao/iching.js) - 用于《易经》起卦与卦象查询的 JavaScript 库。
+- [ichingpy](https://github.com/JinyangWang27/ichingpy) - 用于六爻占卜的 Python 库，提供起卦与卦象解释工具。
 
 ## 紫微斗数 (Zi Wei Dou Shu)
 
@@ -34,16 +36,16 @@
 
 八字（又称四柱命理）是中国命理学体系，根据出生的年、月、日、时，结合天干地支推算出四柱命盘，并进行分析解读。
 
-- [bazi-api](https://github.com/Sophia519/bazi-api) - 基于 lunar-javascript 的八字计算 API，返回结构化命盘数据。
 - [bazi](https://github.com/china-testing/bazi) - Python 八字排盘软件，清晰展示冲刑合会、阴阳等关系，并有合婚、风水等功能。
+- [bazi-api](https://github.com/Sophia519/bazi-api) - 基于 lunar-javascript 的八字计算 API，返回结构化命盘数据。
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - 首个基于纯 JavaScript 无依赖的八字排盘库，具有完整的神煞系统，根据渊海子平原文发表的八字排盘原理。
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
 奇门遁甲是中国高级术数体系，用于占卜、谋略与择日，以九宫格为基础，结合天干、门、星与神灵进行布局解析。
 
-- [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - 用于构建奇门遁甲盘的 JavaScript 起盤模組。
 - [Qimen-Dunjia](https://github.com/Maximilian-Winter/Qimen-Dunjia) - 用于奇门遁甲九宫布局与解读的 Python 框架。
+- [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - 用于构建奇门遁甲盘的 JavaScript 起盤模組。
 - [QimenDunjia](https://github.com/codeUser6608/QimenDunjia) - 支持实时九宫计算的 Vue 端奇门遁甲 H5 小程序。
 
 ## 风水 (Feng Shui)
@@ -65,11 +67,11 @@
 
 ## 学习资源
 
-- [《完整易经》— Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - 权威英文版易经译注，附详细卦象解析。
-- [《易经占星》— W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - 六爻占卜方法论的经典入门著作。
 - [iztro 官方文档 — 紫微斗数指南](https://docs.iztro.com) - iztro 库的官方文档，涵盖紫微斗数宫位解读、星曜分析及大限流年计算。
 - [Joey Yap 八字系列课程](https://www.joeyyap.com/) - 由知名马来西亚命理师主讲的八字四柱系统课程教材。
 - [《奇门遁甲大全》— Joey Yap](https://www.joeyyap.com/) - 涵盖奇门遁甲理论与实践应用的参考专著。
+- [《易经占星》— W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - 六爻占卜方法论的经典入门著作。
+- [《完整易经》— Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - 权威英文版易经译注，附详细卦象解析。
 - [ziwei-doushu-wiki](https://github.com/ziweidoushu-info/ziwei-doushu-wiki) - 紫微斗数开源知识库，涵盖十四主星、十二宫位、四化飞星及排盘逻辑全解析。
 
 ---
