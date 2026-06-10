@@ -30,10 +30,11 @@
 
 紫微斗数是中国占星术的一种，通过星曜位置将出生信息映射到十二宫格中，以紫微星为核心进行命盘解读。
 
-- [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
-- [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
 - [iztro](https://github.com/sylarlong/iztro) - 用于紫微斗数排盘的 JavaScript/TypeScript 库，提供宫位、星曜及大限流年数据。
 - [py-iztro](https://github.com/x-haose/py-iztro) - iztro 的 Python 移植版，用于紫微斗数排盘与解读，用法与原版完全一致。
+- [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
+- [iztro-rs](https://github.com/JinyangWang27/iztro-rs) - iztro 的 Rust 移植版，用于紫微斗数排盘与相关数据建模。
+- [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
 - [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - 带交互式宫格展示的紫微斗数排盘 WordPress 插件，以中州派风格为主。
 
 ## 八字 (BaZi)

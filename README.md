@@ -1,42 +1,46 @@
 # Awesome Chinese Metaphysics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools, libraries, and resources related to Chinese metaphysics systems — including 六爻 (Liu Yao), 紫微斗数 (Zi Wei Dou Shu), 八字 (BaZi), 奇门遁甲 (Qi Men Dun Jia), 风水 (Feng Shui), and the Chinese calendar (农历/节气).
+> A curated list of tools, libraries, and resources related to Chinese metaphysics systems — including Liu Yao (六爻), Zi Wei Dou Shu (紫微斗数), BaZi (八字), Qi Men Dun Jia (奇门遁甲), Feng Shui (风水), and the Chinese calendar (农历/节气).
 
 Read this in: [中文](README_CN.md)
 
 ## Contents
 
-- [六爻 (Liu Yao)](#六爻-liu-yao)
-- [紫微斗数 (Zi Wei Dou Shu)](#紫微斗数-zi-wei-dou-shu)
-- [八字 (BaZi)](#八字-bazi)
-- [奇门遁甲 (Qi Men Dun Jia)](#奇门遁甲-qi-men-dun-jia)
-- [大六壬 (Da Liu Ren)](#大六壬-da-liu-ren)
-- [风水 (Feng Shui)](#风水-feng-shui)
-- [农历/节气 (Chinese Calendar)](#农历节气-chinese-calendar)
-- [Learning Resources](#learning-resources)
+- [Awesome Chinese Metaphysics ](#awesome-chinese-metaphysics-)
+  - [Contents](#contents)
+  - [Liu Yao](#liu-yao)
+  - [Zi Wei Dou Shu](#zi-wei-dou-shu)
+  - [BaZi](#bazi)
+  - [Qi Men Dun Jia](#qi-men-dun-jia)
+  - [Da Liu Ren](#da-liu-ren)
+  - [Feng Shui](#feng-shui)
+  - [Chinese Calendar](#chinese-calendar)
+  - [Learning Resources](#learning-resources)
+  - [Contributing](#contributing)
 
 ---
 
-## 六爻 (Liu Yao)
+## Liu Yao
 
-Liu Yao is a classical Chinese divination method based on the I Ching (易经), using six lines (yao) derived from coin or yarrow-stalk casting to form hexagrams.
+Liu Yao (六爻) is a classical Chinese divination method based on the I Ching (易经), using six lines (yao) derived from coin or yarrow-stalk casting to form hexagrams.
 
 - [divination-liuyao](https://github.com/SmallTeddyGames/divination-liuyao) - TypeScript library for Liu Yao (六爻) divination based on the I Ching, with hexagram casting and interpretation.
 - [iching](https://github.com/chengjun/iching) - Python package reproducing I Ching divination via the yarrow-stalk (蓍草) method.
 - [iching.js](https://github.com/l2yao/iching.js) - JavaScript library for I Ching hexagram casting and lookup.
 - [ichingpy](https://github.com/JinyangWang27/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
 
-## 紫微斗数 (Zi Wei Dou Shu)
+## Zi Wei Dou Shu
 
-Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
+Zi Wei Dou Shu (紫微斗数) is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
 
-- [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
-- [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
 - [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
+- [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
+- [iztro-rs](https://github.com/JinyangWang27/iztro-rs) - Rust port of iztro for Zi Wei Dou Shu (紫微斗数) chart calculation and related data modeling.
+- [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
 - [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - WordPress plugin for Zi Wei Dou Shu chart calculation with interactive palace display, focused on the Zhong Zhou school (中州派) style.
 
-## 八字 (BaZi)
+## BaZi
 
 BaZi (八字, "Eight Characters") is a Chinese astrological system that derives a four-pillar chart from a person's birth year, month, day, and hour using the Heavenly Stems (天干) and Earthly Branches (地支).
 
@@ -47,7 +51,7 @@ BaZi (八字, "Eight Characters") is a Chinese astrological system that derives 
 - [bazica](https://github.com/tommitoan/bazica) - Go package that converts solar dates into BaZi (八字) four-pillar charts.
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
 
-## 奇门遁甲 (Qi Men Dun Jia)
+## Qi Men Dun Jia
 
 Qi Men Dun Jia (奇门遁甲) is an advanced Chinese metaphysical system used for divination, strategy, and date selection, based on a 9-palace grid (九宫) populated with stems, gates, stars, and deities.
 
@@ -56,7 +60,7 @@ Qi Men Dun Jia (奇门遁甲) is an advanced Chinese metaphysical system used fo
 - [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - JavaScript module for constructing Qi Men Dun Jia charts (奇門遁甲起盤模組).
 - [QimenDunjia](https://github.com/codeUser6608/QimenDunjia) - Vue-based Qi Men Dun Jia H5 mini-program with real-time palace calculation.
 
-## 大六壬 (Da Liu Ren)
+## Da Liu Ren
 
 Da Liu Ren (大六壬) is one of the Three Styles (三式) of Chinese divination, casting a chart from the Heavenly and Earthly plates (天地盘), Four Lessons (四课), and Three Transmissions (三传).
 
@@ -64,7 +68,7 @@ Da Liu Ren (大六壬) is one of the Three Styles (三式) of Chinese divination
 - [daliuren_ok](https://github.com/zolagz/daliuren_ok) - Lightweight Python package for casting Da Liu Ren (大六壬) charts.
 - [kinliuren](https://github.com/kentang2017/kinliuren) - Python package for Da Liu Ren (大六壬) with Four Lessons, Three Transmissions, and a Streamlit web app.
 
-## 风水 (Feng Shui)
+## Feng Shui
 
 Feng Shui (风水) is the Chinese practice of arranging environments in harmony with natural energy flows (气, qi), encompassing compass-based (玄空飞星) and form-based (形势) schools.
 
@@ -73,7 +77,7 @@ Feng Shui (风水) is the Chinese practice of arranging environments in harmony 
 - [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - TypeScript Lo Pan (罗盘) compass tool for directional Feng Shui analysis with customizable rings.
 - [mikaboshi](https://github.com/minagawah/mikaboshi) - Rust library of Feng Shui (风水) primitives including Ba Gua (八卦), Gan Zhi (干支), and the Nine Stars (九星).
 
-## 农历/节气 (Chinese Calendar)
+## Chinese Calendar
 
 Tools for working with the Chinese lunisolar calendar (农历), the 24 solar terms (二十四节气), Heavenly Stems (天干), and Earthly Branches (地支).
 
