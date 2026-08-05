@@ -30,6 +30,7 @@
 
 紫微斗数是中国占星术的一种，通过星曜位置将出生信息映射到十二宫格中，以紫微星为核心进行命盘解读。
 
+- [cdestiny](https://github.com/ying-rushi/cdestiny) - 纯 Python 紫微斗数（ZWDS）排盘引擎：星曜排布、十二宫格绘制，遵循古典规则。
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
 - [iztro](https://github.com/sylarlong/iztro) - 用于紫微斗数排盘的 JavaScript/TypeScript 库，提供宫位、星曜及大限流年数据。

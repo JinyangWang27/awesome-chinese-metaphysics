@@ -30,6 +30,7 @@ Liu Yao is a classical Chinese divination method based on the I Ching (易经), 
 
 Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
 
+- [cdestiny](https://github.com/ying-rushi/cdestiny) - Pure-Python Zi Wei Dou Shu (ZWDS) engine: chart calculation, star placement, and palace grids with classical rules.
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
