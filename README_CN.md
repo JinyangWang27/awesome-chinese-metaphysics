@@ -33,6 +33,7 @@
 - [cdestiny](https://github.com/ying-rushi/cdestiny) - 纯 Python 紫微斗数（ZWDS）排盘引擎：星曜排布、十二宫格绘制，遵循古典规则。
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
+- [Imperial Astrology](https://imperialastrology.com) - 免费的紫微斗数与八字在线排盘工具，提供通俗易懂的自动解读。
 - [iztro](https://github.com/sylarlong/iztro) - 用于紫微斗数排盘的 JavaScript/TypeScript 库，提供宫位、星曜及大限流年数据。
 - [py-iztro](https://github.com/x-haose/py-iztro) - iztro 的 Python 移植版，用于紫微斗数排盘与解读，用法与原版完全一致。
 - [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - 带交互式宫格展示的紫微斗数排盘 WordPress 插件，以中州派风格为主。
