@@ -25,6 +25,7 @@
 - [iching](https://github.com/chengjun/iching) - 使用蓍草法还原《易经》占卜的 Python 库。
 - [iching.js](https://github.com/l2yao/iching.js) - 用于《易经》起卦与卦象查询的 JavaScript 库。
 - [ichingpy](https://github.com/JinyangWang27/ichingpy) - 用于六爻占卜的 Python 库，提供起卦与卦象解释工具。
+- [meihua-yishu](https://github.com/muyen/meihua-yishu) - 用于梅花易數起卦的 Python 库，支持按时间或数字起卦并解读卦象。
 
 ## 紫微斗数 (Zi Wei Dou Shu)
 
@@ -32,6 +33,7 @@
 
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
+- [iYarrow](https://iyarrow.xyz) - 提供紫微斗数排盘与易经起卦的网页应用，命盘与完整解读免费。
 - [iztro](https://github.com/sylarlong/iztro) - 用于紫微斗数排盘的 JavaScript/TypeScript 库，提供宫位、星曜及大限流年数据。
 - [py-iztro](https://github.com/x-haose/py-iztro) - iztro 的 Python 移植版，用于紫微斗数排盘与解读，用法与原版完全一致。
 - [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - 带交互式宫格展示的紫微斗数排盘 WordPress 插件，以中州派风格为主。

@@ -25,6 +25,7 @@ Liu Yao is a classical Chinese divination method based on the I Ching (易经), 
 - [iching](https://github.com/chengjun/iching) - Python package reproducing I Ching divination via the yarrow-stalk (蓍草) method.
 - [iching.js](https://github.com/l2yao/iching.js) - JavaScript library for I Ching hexagram casting and lookup.
 - [ichingpy](https://github.com/JinyangWang27/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
+- [meihua-yishu](https://github.com/muyen/meihua-yishu) - Python library for 梅花易數 (Plum Blossom) I Ching hexagram casting from time or numbers.
 
 ## 紫微斗数 (Zi Wei Dou Shu)
 
@@ -32,6 +33,7 @@ Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-
 
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
+- [iYarrow](https://iyarrow.xyz) - Web app for Zi Wei Dou Shu (紫微斗数) natal charts and I Ching casting, with a free reading tier.
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
 - [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
 - [ziwei-chart-calculator](https://github.com/kcy1989/ziwei-chart-calculator) - WordPress plugin for Zi Wei Dou Shu chart calculation with interactive palace display, focused on the Zhong Zhou school (中州派) style.
