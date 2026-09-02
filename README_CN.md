@@ -31,6 +31,7 @@
 紫微斗数是中国占星术的一种，通过星曜位置将出生信息映射到十二宫格中，以紫微星为核心进行命盘解读。
 
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - 用于紫微斗数与八字排盘的 Dart/Flutter 库，支持真太阳时与多语言。
+- [FateForge](https://fateforge.me/) - 免费的八字、紫微斗数、奇门遁甲与大六壬排盘网站，可选 AI 解读。
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - 中州派风格的紫微斗数排盘 JavaScript/TypeScript 库。
 - [iztro](https://github.com/sylarlong/iztro) - 用于紫微斗数排盘的 JavaScript/TypeScript 库，提供宫位、星曜及大限流年数据。
 - [py-iztro](https://github.com/x-haose/py-iztro) - iztro 的 Python 移植版，用于紫微斗数排盘与解读，用法与原版完全一致。
@@ -45,12 +46,14 @@
 - [bazi-calculator-by-alvamind](https://github.com/alvamind/bazi-calculator-by-alvamind) - 面向 Node.js 的现代 TypeScript 八字计算与分析库，涵盖五行与日主分析。
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - 返回八字命盘数据、供 AI 助手调用的 Model Context Protocol 服务器。
 - [bazica](https://github.com/tommitoan/bazica) - 将公历日期转换为八字四柱的 Go 库。
+- [FateForge](https://fateforge.me/) - 免费的八字、紫微斗数、奇门遁甲与大六壬排盘网站，可选 AI 解读。
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - 首个基于纯 JavaScript 无依赖的八字排盘库，具有完整的神煞系统，根据渊海子平原文发表的八字排盘原理。
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
 奇门遁甲是中国高级术数体系，用于占卜、谋略与择日，以九宫格为基础，结合天干、门、星与神灵进行布局解析。
 
+- [FateForge](https://fateforge.me/) - 免费的八字、紫微斗数、奇门遁甲与大六壬排盘网站，可选 AI 解读。
 - [kinqimen](https://github.com/kentang2017/kinqimen) - 支持时家、刻家、日家奇门排盘并带 Streamlit 演示的奇门遁甲 Python 库。
 - [Qimen-Dunjia](https://github.com/Maximilian-Winter/Qimen-Dunjia) - 用于奇门遁甲九宫布局与解读的 Python 框架。
 - [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - 用于构建奇门遁甲盘的 JavaScript 起盤模組。
@@ -62,6 +65,7 @@
 
 - [daliuren-web-engine](https://github.com/d1210182010/daliuren-web-engine) - 采用昼夜双算法、可输出 AI 友好结构化数据的大六壬 Python 网页引擎。
 - [daliuren_ok](https://github.com/zolagz/daliuren_ok) - 轻量级大六壬起课 Python 库。
+- [FateForge](https://fateforge.me/) - 免费的八字、紫微斗数、奇门遁甲与大六壬排盘网站，可选 AI 解读。
 - [kinliuren](https://github.com/kentang2017/kinliuren) - 支持四课、三传并带 Streamlit 网页应用的大六壬 Python 库。
 
 ## 风水 (Feng Shui)
