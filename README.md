@@ -31,6 +31,7 @@ Liu Yao is a classical Chinese divination method based on the I Ching (易经), 
 Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
 
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
+- [FateForge](https://fateforge.me/) - Free BaZi, Zi Wei, Qi Men, and Da Liu Ren charts with optional AI readings.
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
 - [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
@@ -45,12 +46,14 @@ BaZi (八字, "Eight Characters") is a Chinese astrological system that derives 
 - [bazi-calculator-by-alvamind](https://github.com/alvamind/bazi-calculator-by-alvamind) - Modern TypeScript BaZi (八字) calculator and analyzer for Node.js, covering Five Elements and Day Master analysis.
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - Model Context Protocol server that returns BaZi (八字) chart data for use in AI assistants.
 - [bazica](https://github.com/tommitoan/bazica) - Go package that converts solar dates into BaZi (八字) four-pillar charts.
+- [FateForge](https://fateforge.me/) - Free BaZi, Zi Wei, Qi Men, and Da Liu Ren charts with optional AI readings.
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
 Qi Men Dun Jia (奇门遁甲) is an advanced Chinese metaphysical system used for divination, strategy, and date selection, based on a 9-palace grid (九宫) populated with stems, gates, stars, and deities.
 
+- [FateForge](https://fateforge.me/) - Free BaZi, Zi Wei, Qi Men, and Da Liu Ren charts with optional AI readings.
 - [kinqimen](https://github.com/kentang2017/kinqimen) - Python package for Qi Men Dun Jia (奇门遁甲) charting, supporting hour-, minute-, and day-based methods with a Streamlit web demo.
 - [Qimen-Dunjia](https://github.com/Maximilian-Winter/Qimen-Dunjia) - Python framework for Qi Men Dun Jia palace layout and interpretation.
 - [qimen_dunjia](https://github.com/arc119226/qimen_dunjia) - JavaScript module for constructing Qi Men Dun Jia charts (奇門遁甲起盤模組).
@@ -62,6 +65,7 @@ Da Liu Ren (大六壬) is one of the Three Styles (三式) of Chinese divination
 
 - [daliuren-web-engine](https://github.com/d1210182010/daliuren-web-engine) - Python Da Liu Ren (大六壬) web engine with day/night algorithms and AI-ready structured output.
 - [daliuren_ok](https://github.com/zolagz/daliuren_ok) - Lightweight Python package for casting Da Liu Ren (大六壬) charts.
+- [FateForge](https://fateforge.me/) - Free BaZi, Zi Wei, Qi Men, and Da Liu Ren charts with optional AI readings.
 - [kinliuren](https://github.com/kentang2017/kinliuren) - Python package for Da Liu Ren (大六壬) with Four Lessons, Three Transmissions, and a Streamlit web app.
 
 ## 风水 (Feng Shui)
