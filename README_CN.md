@@ -87,6 +87,7 @@
 
 ## 学习资源
 
+- [中国历法库与 JPL DE421 逐秒对照 — 天时录](https://www.tianeon.com/zh-CN/learn/bazi-calculator-accuracy) - 用 NASA JPL 星历逐秒核对十个节气/历法库，并列出八字四柱的边界案例。
 - [iztro 官方文档 — 紫微斗数指南](https://docs.iztro.com) - iztro 库的官方文档，涵盖紫微斗数宫位解读、星曜分析及大限流年计算。
 - [Joey Yap 八字系列课程](https://www.joeyyap.com/) - 由知名马来西亚命理师主讲的八字四柱系统课程教材。
 - [《奇门遁甲大全》— Joey Yap](https://www.joeyyap.com/) - 涵盖奇门遁甲理论与实践应用的参考专著。

@@ -87,6 +87,7 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 
 ## Learning Resources
 
+- [Chinese Calendar Libraries vs. JPL DE421 — TianEon](https://www.tianeon.com/en/learn/bazi-calculator-accuracy) - Ten solar term (节气) libraries checked to the second against NASA JPL, with BaZi (八字) pillar edge cases.
 - [iztro Documentation — Zi Wei Dou Shu Guide](https://docs.iztro.com) - Official documentation for the iztro library, covering Zi Wei Dou Shu palace interpretation, star analysis, and luck-cycle calculation.
 - [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/bazi) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
 - [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/qimen) - Reference text covering the theory and practical application of Qi Men Dun Jia.
