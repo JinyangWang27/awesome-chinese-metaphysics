@@ -45,6 +45,7 @@
 - [bazi-calculator-by-alvamind](https://github.com/alvamind/bazi-calculator-by-alvamind) - 面向 Node.js 的现代 TypeScript 八字计算与分析库，涵盖五行与日主分析。
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - 返回八字命盘数据、供 AI 助手调用的 Model Context Protocol 服务器。
 - [bazica](https://github.com/tommitoan/bazica) - 将公历日期转换为八字四柱的 Go 库。
+- [mingli-lab（天机簿）](https://github.com/zhuyep/mingli-lab) - 本地优先的八字命书 Web 应用，支持当场拨动 00:00/23:00 换日对照，并可保存分享双口径卡片。
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - 首个基于纯 JavaScript 无依赖的八字排盘库，具有完整的神煞系统，根据渊海子平原文发表的八字排盘原理。
 
 ## 奇门遁甲 (Qi Men Dun Jia)
