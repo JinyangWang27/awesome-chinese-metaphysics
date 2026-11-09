@@ -23,6 +23,8 @@ Liu Yao is a classical Chinese divination method based on the I Ching (易经), 
 
 - [divination-liuyao](https://github.com/SmallTeddyGames/divination-liuyao) - TypeScript library for Liu Yao (六爻) divination based on the I Ching, with hexagram casting and interpretation.
 - [iching](https://github.com/chengjun/iching) - Python package reproducing I Ching divination via the yarrow-stalk (蓍草) method.
+- [iching-transformations-reference](https://github.com/wangxy051-ai/iching-transformations-reference) - CSV reference for I Ching hexagram transformations.
+
 - [iching.js](https://github.com/l2yao/iching.js) - JavaScript library for I Ching hexagram casting and lookup.
 - [ichingpy](https://github.com/JinyangWang27/ichingpy) - Python library for Liu Yao (六爻) divination, providing hexagram generation and interpretation utilities.
 
