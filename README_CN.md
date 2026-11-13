@@ -90,6 +90,7 @@
 - [iztro 官方文档 — 紫微斗数指南](https://docs.iztro.com) - iztro 库的官方文档，涵盖紫微斗数宫位解读、星曜分析及大限流年计算。
 - [Joey Yap 八字系列课程](https://www.joeyyap.com/) - 由知名马来西亚命理师主讲的八字四柱系统课程教材。
 - [《奇门遁甲大全》— Joey Yap](https://www.joeyyap.com/) - 涵盖奇门遁甲理论与实践应用的参考专著。
+- [時來入門文章 — 八字、紫微斗数与易经](https://mm7382.github.io/learn/) - 免费的中英双语入门文章，涵盖八字、紫微斗数与六爻，采用 CC BY 4.0 授权。
 - [《易经占星》— W.A. Sherrill & W.K. Chu](https://www.amazon.com/Astrology-I-Ching-W-Sherrill/dp/0140192352) - 六爻占卜方法论的经典入门著作。
 - [《完整易经》— Alfred Huang](https://www.innertraditions.com/books/the-complete-i-ching) - 权威英文版易经译注，附详细卦象解析。
 - [ziwei-doushu-wiki](https://github.com/ziweidoushu-info/ziwei-doushu-wiki) - 紫微斗数开源知识库，涵盖十四主星、十二宫位、四化飞星及排盘逻辑全解析。
