@@ -41,6 +41,7 @@
 八字（又称四柱命理）是中国命理学体系，根据出生的年、月、日、时，结合天干地支推算出四柱命盘，并进行分析解读。
 
 - [bazi](https://github.com/china-testing/bazi) - Python 八字排盘软件，清晰展示冲刑合会、阴阳等关系，并有合婚、风水等功能。
+- [Bazi Diff](https://bazi-diff.pages.dev/) - 免费网页八字排盘工具，支持输入出生时段并比较哪些四柱保持一致。
 - [bazi-api](https://github.com/Sophia519/bazi-api) - 基于 lunar-javascript 的八字计算 API，返回结构化命盘数据。
 - [bazi-calculator-by-alvamind](https://github.com/alvamind/bazi-calculator-by-alvamind) - 面向 Node.js 的现代 TypeScript 八字计算与分析库，涵盖五行与日主分析。
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - 返回八字命盘数据、供 AI 助手调用的 Model Context Protocol 服务器。
