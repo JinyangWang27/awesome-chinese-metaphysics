@@ -41,6 +41,7 @@ Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-
 BaZi (八字, "Eight Characters") is a Chinese astrological system that derives a four-pillar chart from a person's birth year, month, day, and hour using the Heavenly Stems (天干) and Earthly Branches (地支).
 
 - [bazi](https://github.com/china-testing/bazi) - Python BaZi chart software with clash, combination, and yin-yang analysis, plus matchmaking and Feng Shui features.
+- [Bazi Diff](https://bazi-diff.pages.dev/) - Free browser-based BaZi calculator that compares which pillars stay stable across a birth-time range.
 - [bazi-api](https://github.com/Sophia519/bazi-api) - BaZi calculation API built with lunar-javascript, returning structured chart data.
 - [bazi-calculator-by-alvamind](https://github.com/alvamind/bazi-calculator-by-alvamind) - Modern TypeScript BaZi (八字) calculator and analyzer for Node.js, covering Five Elements and Day Master analysis.
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - Model Context Protocol server that returns BaZi (八字) chart data for use in AI assistants.
