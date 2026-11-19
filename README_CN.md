@@ -46,6 +46,7 @@
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - 返回八字命盘数据、供 AI 助手调用的 Model Context Protocol 服务器。
 - [bazica](https://github.com/tommitoan/bazica) - 将公历日期转换为八字四柱的 Go 库。
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - 首个基于纯 JavaScript 无依赖的八字排盘库，具有完整的神煞系统，根据渊海子平原文发表的八字排盘原理。
+- [NorthStar Fate](https://northstarfate.com/) - 免费的网页八字计算器，提供四柱和大运排盘。
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
