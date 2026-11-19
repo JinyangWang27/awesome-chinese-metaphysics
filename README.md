@@ -46,6 +46,7 @@ BaZi (八字, "Eight Characters") is a Chinese astrological system that derives 
 - [bazi-mcp](https://github.com/cantian-ai/bazi-mcp) - Model Context Protocol server that returns BaZi (八字) chart data for use in AI assistants.
 - [bazica](https://github.com/tommitoan/bazica) - Go package that converts solar dates into BaZi (八字) four-pillar charts.
 - [mystilight-8char](https://github.com/mystilight/mystilight-8char) - Pure JavaScript BaZi chart library with no dependencies, featuring a complete Shen Sha (神煞) system based on Yuan Hai Zi Ping.
+- [NorthStar Fate](https://northstarfate.com/) - Free web calculator for BaZi (八字) four-pillar charts and luck pillars.
 
 ## 奇门遁甲 (Qi Men Dun Jia)
 
