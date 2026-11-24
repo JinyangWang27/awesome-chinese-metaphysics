@@ -68,6 +68,7 @@ Da Liu Ren (大六壬) is one of the Three Styles (三式) of Chinese divination
 
 Feng Shui (风水) is the Chinese practice of arranging environments in harmony with natural energy flows (气, qi), encompassing compass-based (玄空飞星) and form-based (形势) schools.
 
+- [Feng Shui Room Planner](https://chinesefortunetools.com/feng-shui/room-planner/) - Arrange bedroom furniture on a 2D floor plan and see feedback based on traditional Feng Shui.
 - [Fengshui](https://github.com/funfwo/Fengshui) - Python implementation of Xuan Kong Flying Stars (玄空飞星) chart generation with mountain/water palace interpretation and wealth/study position analysis.
 - [fengshui.js](https://github.com/l2yao/fengshui.js) - JavaScript library for Feng Shui calculations including bagua direction mapping.
 - [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - TypeScript Lo Pan (罗盘) compass tool for directional Feng Shui analysis with customizable rings.
