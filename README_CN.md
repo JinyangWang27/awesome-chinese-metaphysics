@@ -68,6 +68,7 @@
 
 风水是中国通过合理布局环境以顺应自然气场（气）的传统实践，主要分为玄空飞星派（理气）和形势派两大流派。
 
+- [Feng Shui Room Planner](https://chinesefortunetools.com/feng-shui/room-planner/) - 在二维平面图中布置卧室家具，并查看基于传统风水规则的布局反馈。
 - [Fengshui](https://github.com/funfwo/Fengshui) - 按照玄空飞星法排盘的 Python 实现，可给出山向飞星解释及文昌位、财位等分析。
 - [fengshui.js](https://github.com/l2yao/fengshui.js) - 用于风水计算的 JavaScript 库，包含八卦方位映射功能。
 - [FengShuiCompass](https://github.com/0x7A7A6572/FengShuiCompass) - 用于风水方位分析的 TypeScript 数字罗盘工具，支持自定义盘面。
