@@ -31,6 +31,7 @@ Liu Yao is a classical Chinese divination method based on the I Ching (易经), 
 Zi Wei Dou Shu is a form of Chinese astrology that maps a birth chart onto a 12-palace grid using the positions of stars and the Purple Star (紫微星).
 
 - [dart_iztro](https://github.com/EdwinXiang/dart_iztro) - Dart/Flutter library for Zi Wei Dou Shu (紫微斗数) and BaZi chart calculation, with true-solar-time and multi-language support.
+- [fatestar-mcp](https://github.com/LouisLin0723/fatestar-mcp) - Remote MCP server for Zi Wei Dou Shu (紫微斗数) charts and transits under San He (三合派) rules.
 - [fortel-ziweidoushu](https://github.com/airicyu/fortel-ziweidoushu) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart casting in the Zhong Zhou (中州派) style.
 - [iztro](https://github.com/sylarlong/iztro) - JavaScript/TypeScript library for Zi Wei Dou Shu (紫微斗数) chart calculation, providing palace, star, and luck-cycle data.
 - [py-iztro](https://github.com/x-haose/py-iztro) - Python port of iztro for Zi Wei Dou Shu (紫微斗数) chart generation and interpretation, with API-compatible usage.
@@ -87,6 +88,7 @@ Tools for working with the Chinese lunisolar calendar (农历), the 24 solar ter
 
 ## Learning Resources
 
+- [FateStar Zi Wei Dou Shu Base Rates](https://www.fatestar.top/ziwei-doushu/learn/statistics) - Frequencies of Zi Wei Dou Shu chart configurations over 262,980 birth moments, with CSV data.
 - [iztro Documentation — Zi Wei Dou Shu Guide](https://docs.iztro.com) - Official documentation for the iztro library, covering Zi Wei Dou Shu palace interpretation, star analysis, and luck-cycle calculation.
 - [Joey Yap's BaZi Profiling Series](https://www.joeyyap.com/bazi) - Structured course materials for BaZi four-pillar analysis from a prominent Malaysian practitioner.
 - [Qi Men Dun Jia Compendium — Joey Yap](https://www.joeyyap.com/qimen) - Reference text covering the theory and practical application of Qi Men Dun Jia.
